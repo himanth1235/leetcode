@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanth1235/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/himanth1235/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,9 +41,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/himanth1235/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/himanth1235/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/himanth1235/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/himanth1235/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
